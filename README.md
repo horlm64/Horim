@@ -1,4 +1,4 @@
-# Python
+# Head Segmentation & Position Detection
 
 This code is implemented, based on the Raspberry Pi and Raspberry Pi Camera.
 
@@ -15,3 +15,4 @@ Another is head position detection, based on segmented face
 - Once Haar cascade face detection recognizes the face, perform facial landmark detection to set the criteria
 - Perform Head position detection 
 
+You can request me for more details : horim64@naver.com
