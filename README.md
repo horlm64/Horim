@@ -6,7 +6,7 @@ it is divided into head segmentation and head position detection
 
 One is head segmentation from images of Raspberry Pi Camera
 - Region-based color segmentation: Superpixel algorithm, multiple thresholding, skin-color classification.
-- Contour detection to obtain head among other contours by comparison.
+- Contour detection to obtain the head among other contours by comparison.
 - Contour approximation to smooth contour as much as possible and update a Mask, obtained by contour detection
 - Apply the updated Mask to the given image from Raspberry Pi Camera.
 
