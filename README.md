@@ -1,5 +1,7 @@
 # Head Segmentation & Position Detection
 
+Project : Segmentation of human heads, using a commercial low-cost camera combined with a Raspberry Pi
+ 
 This code is implemented, based on the Raspberry Pi and Raspberry Pi Camera.
 
 it is divided into head segmentation and head position detection 
